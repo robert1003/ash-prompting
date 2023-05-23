@@ -1,0 +1,11 @@
+Action
+[SEP]
+{action}
+
+Observation
+[SEP]
+{observation}
+
+Information
+[SEP]
+Let's think step by step. Based on the observation and action, what information will be useful for a dumb actor to buy the correct product? 

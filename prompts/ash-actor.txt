@@ -1,0 +1,153 @@
+Instruction: Find me a white blackout shades with size 66" x 66". They need to be easy to install, and price lower than 110.00 dollars.
+[Search]
+
+Action 1: search[66 inches in width and 66 inches in height white shades]
+Observation 1:
+Find me a white blackout shades with size 66" x 66". They need to be easy to install, and price lower than 110.00 dollars.
+[Back to Search]
+Search results for keyword "66 inches in width and 66 inches in height white shades":
+Page 1 (Total results: 50)
+[Next >]
+Products clicked before: None
+[B08QGG4DY7]
+Maxxmore Tiffany Pendant Light 2-Light 16" Width Mission Style Stained Glass Hanging Lamp for Kitchen Island Dining Room Foyer
+$164.0
+[B07L64LC6Y]
+Calyx Interiors Inch Snow White Cordless 2" Faux Wood Blind with Royal Valance, 46.5-Inch Width x 48-Inch Height
+$100.0
+[B08P24YM9D]
+Hmlinktt Couch Gray Convertible, Modern Faux Leather Futon Sofa Bed with 2 Cup Holders and Armrest Folding Recliner, for Living/Office Room(Black)
+$435.0
+
+Action 2: click[B07L64LC6Y]
+Observation 2:
+Find me a white blackout shades with size 66" x 66". They need to be easy to install, and price lower than 110.00 dollars.
+[Back to Search]
+[< Prev]
+Product info of B07L64LC6Y:
+size
+  [19-inch width x 60-inch height]
+  [19.125-inch width x 60-inch height]
+  [21.5-inch width x 60-inch height]
+Calyx Interiors Inch Snow White Cordless 2" Faux Wood Blind with Royal Valance, 46.5-Inch Width x 48-Inch Height
+Price: $100.0
+Rating: N.A.
+[Description]
+[Features]
+[Reviews]
+[Buy Now]
+
+Action 3: think[The item has no 66x66 option, maybe I should get back to search and reformulate the query.]
+Observation 3:
+OK.
+
+Action 4: click[Back to Search]
+Observation 4:
+Find me a white blackout shades with size 66" x 66". They need to be easy to install, and price lower than 110.00 dollars.
+[Search]
+
+Action 5: search[66 x 66 blackout shades]
+Observation 5:
+Find me a white blackout shades with size 66" x 66". They need to be easy to install, and price lower than 110.00 dollars.
+[Back to Search]
+Search results for keyword "66 x 66 blackout shades":
+Page 1 (Total results: 50):
+[Next >]
+Products clicked before: B07L64LC6Y
+[B097KXCWP7]
+MiLin Blinds for Windows Cordless Blackout Cellular Shades, Blinds & Shades Room Darkening Honeycomb Shades Blinds Heat Insulation UV Protection for Home Kitchen Bedroom Office - White 28" W x 36" H
+$78.49
+[B082GGGM2Y]
+SUN AWAY Portable Blackout Curtain with Window Suction Cups (66" Long x 51" Wide) Temporary Room Darkening Shades for Baby Nursery, Bedroom, Dorm Room - Window Cover for Travel
+$42.99
+[B09GP34TDR]
+Ejiawj Painted Total Blackout Curtains for Bedroom Plant Comics Farm House Curtains 66 x 72 inch Grommet Room Blackout Curtains Heat Insulation Noise Reduction and Blackout Curtains Suitable for Livi
+$100.0
+
+Action 6: click[B097KXCWP7]
+Observation 6:
+Find me a white blackout shades with size 66" x 66". They need to be easy to install, and price lower than 110.00 dollars.
+[Back to Search]
+Product info of B097KXCWP7:
+[< Prev]
+size
+  [66"w x 56"h]
+  [66"w x 60"h]
+  [66"w x 66"h]
+color
+  [cordless bottom up-blackout-creamy]
+  [cordless bottom up-blackout-gray]
+  [cordless bottom up-blackout-white]
+MiLin Blinds for Windows Cordless Blackout Cellular Shades, Blinds & Shades Room Darkening Honeycomb Shades Blinds Heat Insulation UV Protection for Home Kitchen Bedroom Office - White 28" W x 36" H
+Price: $78.49
+Rating: N.A.
+[Description]
+[Features]
+[Reviews]
+[Buy Now]
+
+Action 7: think[For white blackout shades that are 66 inches in width and 66 inches in height, the item has options '66"w x 66"h' and 'cordless bottom up-blackout-white', so I should buy this item.]
+Observation 7:
+OK.
+
+Action 8: click[66"w x 66"h]
+Observation 8:
+You have clicked 66"w x 66"h.
+
+Action 9: click[cordless bottom up-blackout-white]
+Observation 9:
+You have clicked cordless bottom up-blackout-white.
+
+Action 10: click[Buy Now]
+
+===
+
+Instruction: Find me a 3 ounce bottle of bright citrus deodorant for sensitive skin, and price lower than 50.00 dollars
+[Search]
+
+Action 1: search[3 ounce bright citrus deodorant sensitive skin]
+Observation 1:
+Find me a 3 ounce bottle of bright citrus deodorant for sensitive skin, and price lower than 50.00 dollars
+[Back to Search]
+Search results for keyword "3 ounce bright citrus deodorant sensitive skin":
+Page 1 (Total results: 50) 
+[Next >] 
+Products clicked before: None
+[B078GWRC1J] 
+Bright Citrus Deodorant by Earth Mama | Natural and Safe for Sensitive Skin, Pregnancy and Breastfeeding, Contains Organic Calendula 3-Ounce 
+$10.99 
+[B078GTKVXY] 
+Ginger Fresh Deodorant by Earth Mama | Natural and Safe for Sensitive Skin, Pregnancy and Breastfeeding, Contains Organic Calendula 3-Ounce 
+$10.99 
+[B08KBVJ4XN] 
+Barrel and Oak - Aluminum-Free Deodorant, Deodorant for Men, Essential Oil-Based Scent, 24-Hour Odor Protection, Cedar & Patchouli Blend, Gentle on Sensitive Skin (Mountain Sage, 2.7 oz, 2-Pack) 
+$15.95
+
+Action 2: click[B078GWRC1J]
+Observation 2:
+Find me a 3 ounce bottle of bright citrus deodorant for sensitive skin, and price lower than 50.00 dollars
+[Back to Search]
+[< Prev]
+Product info of B078GWRC1J:
+scent
+  [bright citrus]
+size
+  [3 ounce (pack of 1)]
+  [3 ounce (pack of 2)]
+Bright Citrus Deodorant by Earth Mama | Natural and Safe for Sensitive Skin, Pregnancy and Breastfeeding, Contains Organic Calendula 3-Ounce
+Price: $10.99
+Rating: N.A.
+[Description]
+[Features]
+[Reviews]
+[Buy Now]
+
+Action 3: click[bright citrus]
+Observation 3:
+You have clicked bright citrus.
+
+Action 4: click[3 ounce (pack of 1)]
+Observation 4:
+You have clicked 3 ounce (pack of 1).
+
+Action 5: click[Buy Now]

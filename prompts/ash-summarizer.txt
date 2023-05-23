@@ -1,0 +1,160 @@
+Action
+[SEP]
+None
+
+Observation
+[SEP]
+WebShop
+Instruction:
+I want to find white blackout shades that are 66 inches in width and 66 inches in height. they need to be easy to install, and price lower than 110.00 dollars
+[button] Search [button_]
+
+Information
+[SEP]
+Let's think step by step. Based on the observation and action, what information will be useful for a dumb actor to buy the correct product? I need to extract useful information for actor to build the correct search keyword.
+info[Find me a white blackout shades with size 66" x 66". They need to be easy to install, and price lower than 110.00 dollars.
+[Search]]
+
+===
+
+Action
+[SEP]
+search[women's tops, tees & blouses, light weight, loose fit, short sleeve, army green solid button, large]
+
+Observation
+[SEP]
+Instruction:
+Find me light weight, loose fit women's tops, tees & blouses with short sleeve with color: army green solid button, and size: large, and price lower than 60.00 dollars
+[button] Back to Search [button_]
+Page 1 (Total results: 50)
+[button] Next > [button_]
+[button] B09RWQT4DC [button_]
+Women's Cold Shoulder T-Shirt Tops Blouses 137 Crew-Neck Short Sleeve Printing Strappy Tray Fitting fit Bra Breastfeeding Men's Fixed Royal Crochet Bathing Casual Clothing Valentines
+$19.85
+[button] B09T6XK11P [button_]
+Shirts for Men,Men's Casual Short Sleeve Shirts Summer Button Down Solid Color T-Shirt Tops Beach Loose Comfy Blouse
+$3.68
+[button] B09RWRSHQD [button_]
+Women's Print Casual Tops Blouse T-Shirt 435 Short Sleeves Crew-Neck Letter Royal Cowl dot Girls' Strapless Sleeveless Fitting one Bra Adult Maternity Asymmetrical breastfeedi
+$16.82
+[button] B09RWRSQSB [button_]
+Women's Soft Casual Blouse Print Tops 346 Easter Short Sleeve T Shirt ough Breastfeeding 2022 Lucky dot Animal Cold Fall y90k Leather Cross Swim Tankini dupes Leggings cro
+$17.15
+[button] B09T6WXZF4 [button_]
+Shirts for Men,Men's Casual Short Sleeve Button Down Shirts Summer Solid Color T-Shirt Tops Beach Loose Comfy Blouse
+$1.77
+[button] B09QSTV87Q [button_]
+Blouses for Women Long/Short Sleeve Solid Color Shirts Button-Down V Neck Tees with Pockets Tops
+$12.29 to $14.28
+[button] B09S3P49JZ [button_]
+Loose Printed Sleeveless 266 Women's V-Neck Tank Shirt Blouse Top Block Boats Boutique Trendy Trending Dresser Out Strapless Embroidered Racerback Sleeved Short Ladie
+$20.84
+[button] B09NNTZCL4 [button_]
+Valentines Day T Shirt for Women, Womens Tops Plus Size Cute Love Heart Graphic Tees Shirts Short Sleeve Tops
+$1.21 to $3.21
+[button] B09RWRFH91 [button_]
+Women's Neck Casual Short Sleeves Tops 931 Stripes Splicing Round Strap Boys' Gym Waist Bodysuits Kinky Suit Tunic Leather Breastfeeding Peplum Sheer Size cor
+$20.6
+[button] B09S3NFW4W [button_]
+Casual Easter Printing 280 Women's O-Neck Loose T-Shirt Blouse Tops Short Sleeves Strap Sheer Bikini Workout Cropped Winter Tunic Tube Adults See Bodysuits Teen Out Scrub a
+$16.22
+
+Information
+[SEP]
+Let's think step by step. Based on the observation and action, what information will be useful for a dumb actor to buy the correct product? First, since the actor is dumb, I should choose only about three products that is most likely to match the product and attribute specified by the instruction. I can discard the remaining products. If all products does not match the instruction for sure (have some conflicting attributes), then I should hint the dumb actor to search a different keyword.
+info[Find me light weight, loose fit women's tops, tees & blouses with short sleeve with color: army green solid button, and size: large, and price lower than 60.00 dollars.
+[Back to Search]
+Search results for keyword "women's tops, tees & blouses, light weight, loose fit, short sleeve, army green solid button, large":
+Page 1 (Total results: 50)
+[Next >]
+[B09RWQT4DC]
+Women's Cold Shoulder T-Shirt Tops Blouses 137 Crew-Neck Short Sleeve Printing Strappy Tray Fitting fit Bra Breastfeeding Men's Fixed Royal Crochet Bathing Casual Clothing Valentines
+$19.85
+[B09RWRSHQD]
+Women's Print Casual Tops Blouse T-Shirt 435 Short Sleeves Crew-Neck Letter Royal Cowl dot Girls' Strapless Sleeveless Fitting one Bra Adult Maternity Asymmetrical breastfeedi
+$16.82
+[B09RWRSQSB]
+Women's Soft Casual Blouse Print Tops 346 Easter Short Sleeve T Shirt ough Breastfeeding 2022 Lucky dot Animal Cold Fall y90k Leather Cross Swim Tankini dupes Leggings cro
+$17.15]
+
+===
+
+Action
+[SEP]
+click[B078GWRC1J]
+
+Observation
+[SEP]
+Instruction:
+I would like a 3 ounce bottle of bright citrus deodorant for sensitive skin, and price lower than 50.00 dollars
+[button] Back to Search [button_]
+[button] < Prev [button_]
+scent
+  [button] assorted scents [button_]
+  [button] bright citrus [button_]
+  [button] calming lavender [button_]
+  [button] ginger fresh [button_]
+  [button] simply non-scents [button_]
+size
+  [button] travel set (4-pack) [button_]
+  [button] 3 ounce (pack of 1) [button_]
+  [button] 3-ounce (2-pack) [button_]
+Bright Citrus Deodorant by Earth Mama | Natural and Safe for Sensitive Skin, Pregnancy and Breastfeeding, Contains Organic Calendula 3-Ounce
+Price: $10.99
+Rating: N.A.
+[button] Description [button_]
+[button] Features [button_]
+[button] Reviews [button_]
+[button] Buy Now [button_]
+
+Information
+[SEP]
+Let's think step by step. Based on the observation and action, what information will be useful for a dumb actor to buy the correct product? First, I need to let the dumb actor know this if this is the correct product. Then, I need to filter out options that does not match the instruction to make it easier for the dumb actor to choose the correct option. Finally, if there is missing information in the short description, I should hint the dumb actor to check the description before buying it.
+info[Find me a 3 ounce bottle of bright citrus deodorant for sensitive skin, and price lower than 50.00 dollars
+[Back to Search]
+[< Prev]
+Product info of B078GWRC1J:
+scent
+  [bright citrus]
+size
+  [3 ounce (pack of 1)]
+  [3 ounce (pack of 2)]
+Bright Citrus Deodorant by Earth Mama | Natural and Safe for Sensitive Skin, Pregnancy and Breastfeeding, Contains Organic Calendula 3-Ounce
+Price: $10.99
+Rating: N.A.
+[Description]
+[Features]
+[Reviews]
+[Buy Now]]
+
+===
+
+Action
+[SEP]
+click[Description]
+
+Observation
+[SEP]
+Instruction:
+Find me loose fit, wide leg, quick drying, machine wash men's pants with drawstring closure, elastic waist with color: army green, and size: x-large, and price lower than 40.00 dollars
+[button] Back to Search [button_]
+[button] < Prev [button_]
+❤★Men's Outdoor Recreation Pants Convertible Quick Dry Lightweight Zip Off Outdoor Fishing Travel Pants Men's Outdoor Casual Elastic Waist Lightweight Water Resistant Quick Dry Cargo Fishing Hiking Pants Mens Pants Casual Workout Drawstring Pants with Elastic Waist and Zipper Pockets Mens Pants Casual Comfortable Workout Pants Drawstring Zipper Pockets Elastic Waist Mens Elastic Waist Drawstring Workout Gym Joggers 3/4 Pants Summer Casual Sweat Short Pants with Pockets Men Tactical Pants Waterproof Hiking Fishing Breathable Quick Dry Cargo Short Pants❤★ Size:S US:4 UK:8 UE:34 Waist:64cm/25.20'' Hip:86cm/33.86'' Length:88cm/34.65'' Size:M US:6 UK:10 UE:36 Waist:68cm/26.77'' Hip:90cm/35.43'' Length:90cm/35.43''Size:L US:8 UK:12 UE:38 Waist:72cm/28.35'' Hip:9 4cm/37.01'' Length:92cm/36.22''Size:XL US:10 UK:14 UE:40 Waist:76cm/29.92'' Hip:98cm/38.58'' Length:94cm/37.01''Size:XXL US:12 UK:16 E:42 Waist:80cm 31.50'' Hip:102cm/40.16'' Length:96cm/37.80''
+
+Information
+[SEP]
+Let's think step by step. Based on the observation and action, what information will be useful for a dumb actor to buy the correct product? First, I need to extract information from the description to let the dumb actor know this if this is the correct product. Those information need to be related to the instruction, and be concise and easy for a dumb actor to understand.
+info[Find me loose fit, wide leg, quick drying, machine wash men's pants with drawstring closure, elastic waist with color: army green, and size: x-large, and price lower than 40.00 dollars
+[Back to Search]
+[< Prev]
+Description of this product
+The following is in both the instruction and the description
+- Quick Dry
+- elastic waist
+- drawstring closure
+Thw following is in the instruction, but not in description. Maybe need to check previous page
+- machine wash
+- loose fit, wide leg
+- color
+- size
+- price]
