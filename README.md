@@ -1,6 +1,8 @@
 # ASH Prompting
 
-GPT-3 prompting code for paper "Hierarchical Prompting Assists Large Language Model on Web Navigation"
+GPT-3 prompting code for paper: 
+[Hierarchical Prompting Assists Large Language Model on Web Navigation](https://arxiv.org/abs/2305.14257)
+Abishek Sridhar*, [Robert Lo*](https://robertlo.tech), [Frank F. Xu](https://frankxfz.me/), [Hao Zhu](https://www.zhuhao.me/), [Shuyan Zhou](https://shuyanzhou.github.io/)
 
 ## Setup
 
@@ -10,5 +12,13 @@ GPT-3 prompting code for paper "Hierarchical Prompting Assists Large Language Mo
 ## Citation
 
 ```bibtex
-TODO
+@inproceedings{sridhar2023hierarchical,
+  bibtex_show = {true},
+  title = {Hierarchical Prompting Assists Large Language Model on Web Navigation},
+  author = {Abishek Sridhar and Robert Lo and Frank F. Xu and Hao Zhu and Shuyan Zhou},
+  booktitle = {ArXiv},
+  year = {preprint},
+  html = {https://arxiv.org/abs/2305.14257},
+  tag = {NLP}
+}
 ```
