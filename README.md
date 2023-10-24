@@ -1,6 +1,6 @@
 # ASH Prompting
 
-GPT-3 prompting code for paper: 
+GPT-3 and ChatGPT prompting code for paper: 
 
 [Hierarchical Prompting Assists Large Language Model on Web Navigation](https://arxiv.org/abs/2305.14257)
 
