@@ -4,7 +4,7 @@ GPT-3 prompting code for paper:
 
 [Hierarchical Prompting Assists Large Language Model on Web Navigation](https://arxiv.org/abs/2305.14257)
 
-Abishek Sridhar*, [Robert Lo*](https://robertlo.tech), [Frank F. Xu](https://frankxfz.me/), [Hao Zhu](https://www.zhuhao.me/), [Shuyan Zhou](https://shuyanzhou.github.io/)
+[Abishek Sridhar*](https://www.linkedin.com/in/abishek-sridhar5/), [Robert Lo*](https://robertlo.tech), [Frank F. Xu](https://frankxfz.me/), [Hao Zhu](https://www.zhuhao.me/), [Shuyan Zhou](https://shuyanzhou.github.io/)
 
 ## Setup
 
