@@ -24,7 +24,6 @@ env = WebAgentTextEnv(
     observation_mode="text_rich",
     render=False,
     num_products=None,  # 1000 for small product space, None for full product space
-    human_goals=True,
 )
 
 actor_num_examples = 2
